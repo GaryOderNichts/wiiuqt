@@ -1,0 +1,14 @@
+Makefile
+bin/
+
+fileInjector/fileInjector
+nandBinCheck/nandBinCheck
+nandCbhcRemover/nandCbhcRemover
+nandFixer/nandFixer
+
+*.stash
+*.o
+*.bin
+
+moc_*.cpp
+moc_*.h
